@@ -6,3 +6,4 @@
 
 
 # My Stats
+![https://norzax.github.io/]
