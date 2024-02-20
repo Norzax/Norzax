@@ -6,4 +6,4 @@
 
 
 # My Stats
-![]https://norzax.github.io/
+![](https://norzax.github.io)
