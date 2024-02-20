@@ -1,4 +1,4 @@
-# NORZAX ( Hi im Luvn )
+# Norza ( Hi im Luvn )
 
 
 
