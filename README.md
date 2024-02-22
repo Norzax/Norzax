@@ -1,11 +1,5 @@
 # Norza ( Hi im Luvn )
-
-
-
-
-
-
-# My Stats
+## My Stats
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Norzax/Norzax/master/profile-summary-card-output/github_dark/0-profile-details.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Norzax/Norzax/master/profile-summary-card-output/github/0-profile-details.svg">
