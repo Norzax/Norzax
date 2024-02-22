@@ -7,8 +7,8 @@
 
 # My Stats
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Norzax/Norzax/master/profile-summary-card-output/github_dark/0-profile-details.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Norzax/Norzax/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Norzax/Norzax/master/profile-summary-card-output/github_dark/0-profile-details.svg https://raw.githubusercontent.com/Norzax/Norzax/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Norzax/Norzax/master/profile-summary-card-output/github_dark/2-most-commit-language.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Norzax/Norzax/master/profile-summary-card-output/github_dark/3-stats.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Norzax&theme=github_dark&utcOffset=+7">
