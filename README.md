@@ -6,20 +6,6 @@
 
 
 # My Stats
-
-
-<script>
-  // Kiểm tra xem giao diện của trình duyệt có đang ở chế độ dark không
-  const prefersDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-
-  // Điều chỉnh hình ảnh dựa trên giao diện của trình duyệt
-  const imagePrefix = prefersDarkMode ? "https://raw.githubusercontent.com/Norzax/Norzax/master/profile-summary-card-output/github_dark/" : "https://raw.githubusercontent.com/Norzax/Norzax/master/profile-summary-card-output/github/";
-  
-  // Cập nhật hình ảnh trong README
-  document.querySelectorAll('img').forEach(img => {
-    const src = img.getAttribute('src');
-    if (src.startsWith('https://raw.githubusercontent.com/Norzax/Norzax/master/profile-summary-card-output/github')) {
-      img.setAttribute('src', imagePrefix + src.split('/').pop());
-    }
-  });
-</script>
+[![](https://raw.githubusercontent.com/Norzax/Norzax/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/Norzax)
+[![](https://raw.githubusercontent.com/Norzax/Norzax/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/Norzax) [![](https://raw.githubusercontent.com/Norzax/Norzax/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/Norzax)
+[![](https://raw.githubusercontent.com/Norzax/Norzax/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/Norzax) [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Norzax&theme=github_dark&utcOffset=+7)](https://github.com/Norzax)
