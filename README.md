@@ -35,9 +35,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Norzax&theme=github&utcOffset=+7">
   <img alt="Productive time" src="https://github.com/Norzax">
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Norzax&theme=github_dark&utcOffset=+7" src="https://github.com/Norzax">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Norzax&theme=github&utcOffset=+7" src="https://github.com/Norzax">
-  <img alt="Productive time" src="https://github.com/Norzax">
-</picture>
